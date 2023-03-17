@@ -1,0 +1,5 @@
+L:\C#\seminar 6\ex_test\obj\Debug\net7.0\ex_test.csproj.AssemblyReference.cache
+L:\C#\seminar 6\ex_test\obj\Debug\net7.0\ex_test.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\seminar 6\ex_test\obj\Debug\net7.0\ex_test.AssemblyInfoInputs.cache
+L:\C#\seminar 6\ex_test\obj\Debug\net7.0\ex_test.AssemblyInfo.cs
+L:\C#\seminar 6\ex_test\obj\Debug\net7.0\ex_test.csproj.CoreCompileInputs.cache

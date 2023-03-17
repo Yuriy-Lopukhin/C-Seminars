@@ -1,0 +1,15 @@
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ex3.csproj.AssemblyReference.cache
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ex3.AssemblyInfoInputs.cache
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ex3.AssemblyInfo.cs
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ex3.csproj.CoreCompileInputs.cache
+L:\C#\seminar 5\ex3\bin\Debug\net7.0\ex3.exe
+L:\C#\seminar 5\ex3\bin\Debug\net7.0\ex3.deps.json
+L:\C#\seminar 5\ex3\bin\Debug\net7.0\ex3.runtimeconfig.json
+L:\C#\seminar 5\ex3\bin\Debug\net7.0\ex3.dll
+L:\C#\seminar 5\ex3\bin\Debug\net7.0\ex3.pdb
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ex3.dll
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\refint\ex3.dll
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ex3.pdb
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ex3.genruntimeconfig.cache
+L:\C#\seminar 5\ex3\obj\Debug\net7.0\ref\ex3.dll
